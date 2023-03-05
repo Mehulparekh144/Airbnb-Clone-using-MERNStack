@@ -1,3 +1,3 @@
 # Airbnb-Clone-using-MERNStack
 
-(screenshots)[airbnbCloneImages/Home.jpeg]
+(screenshots)[./airbnbCloneImages/Home.jpeg]
